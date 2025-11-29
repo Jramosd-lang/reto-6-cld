@@ -11,6 +11,7 @@ function App() {
       <Proveedores />
       <CasoCritico />
       <TerraformExplicacion />
+      <BeneficiosArquitectura />
     </>
   )
 }
