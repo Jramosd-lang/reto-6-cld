@@ -181,7 +181,10 @@ const CasoCritico = () => {
                         Propuesta técnica de resiliencia para el Reto 6 (CLD) - Modelo Serverless Multi-Nube.
                     </p>
                 </footer>
+                
         </div>
+
+
     );
 };
 

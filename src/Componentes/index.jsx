@@ -215,12 +215,7 @@ const Proveedores = () => {
                     </div>
                 </section>
 
-                {/* Footer */}
-                <footer className="p-8 bg-gradient-to-r from-gray-900 via-gray-800 to-gray-900 rounded-2xl text-center border border-indigo-500/20">
-                    <p className="text-sm text-gray-400">
-                        Propuesta técnica de resiliencia para el Reto 6 (CLD) - Modelo Serverless Multi-Nube.
-                    </p>
-                </footer>
+                
             </div>
         </div>
     );
